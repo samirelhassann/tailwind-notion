@@ -34,7 +34,7 @@ export default function Home() {
               height={30}
             />
 
-            <span>Samir's Notion</span>
+            <span>Samir Notion</span>
           </div>
 
           <div className="flex flex-col mt-8">
