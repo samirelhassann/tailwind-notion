@@ -15,7 +15,12 @@ This is a project used for study purposes only • [Samir El Hassan](https://git
 
 ## Demo
 
+![image](https://github.com/samirelhassann/tailwind-notion/assets/91634008/e82bd2ce-d111-450c-9721-311502775151)
+
+
 ## Live Preview
+
+Check this link: https://samirelhassann.github.io/tailwind-notion/
 
 ## Installation
 
